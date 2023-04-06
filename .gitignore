@@ -1,0 +1,8 @@
+# exclude from git
+__pycache__
+*.pth
+exp/*
+*.npy
+datasets_16/*
+datasets/TrainData/*
+datasets/TestData/*
