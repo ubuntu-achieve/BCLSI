@@ -2,8 +2,6 @@
 
 ![Github stars](https://img.shields.io/github/stars/ubuntu-achieve/BCLSI.svg)![Github stars](https://img.shields.io/github/directory-file-count/ubuntu-achieve/BCLSI.svg)![Github stars](https://img.shields.io/github/license/ubuntu-achieve/BCLSI.svg)
 
-----
-
 [README_en](./README.md)
 
 ## 环境配置
